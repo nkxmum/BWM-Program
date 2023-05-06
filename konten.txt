@@ -1,0 +1,306 @@
+#Klasse0
+0110,Patentrechte,Lizenzen
+0120,Datenverarbeitungsprogramme
+0121,GeringwertigeDatenverarbeitungs-programme
+0180,GeleisteteAnzahlungenaufimmate-rielleVermögensgegenständedesAnlagevermögens
+0200,UnbebauteGrundstücke
+0210,BebauteGrundstücke(Grundwert)
+0300,Gebäude
+0400,Maschinen
+0450,SonstigeBetriebsanlagen
+0480,GeringwertigeMaschinen
+0500,Werkzeuge
+0550,GeringwertigeWerkzeuge
+0600,Betriebs-undGeschäftsausstattung
+0620,Büromaschinen,EDV-Anlagen
+0630,PkwundKombis
+0640,Lkw
+0670,GeringwertigeBetriebs-undGeschäftsausstattung
+0672,GeringwertigeBüromaschinen,EDV-Anlagen
+0700,GeleisteteAnzahlungenaufSachanlagen20 %
+0710,AnlageninBau
+0800,Beteiligungen
+0930,FestverzinslicheWertpapieredesAnlagevermögens
+#Klasse1
+1000,Bezugsverrechnung
+1100,Rohstoffvorrat
+1200,VorratbezogeneTeile
+1250,VorratErsatzteile
+1300,Hilfsstoffvorrat
+1340,VorratVerpackungsmaterial
+1350,VorratBetriebsstoffe
+1360,VorratHeizöl
+1364,VorratfesteBrennstoffe
+1365,VorratSchmiermittel
+1370,VorratReinigungsmaterial
+1390,VorratBüromaterial
+1400,UnfertigeErzeugnisse
+1500,FertigeErzeugnisse
+1600,Handelswarenvorrat
+1680,Emballagen-Vorrat
+1800,GeleisteteAnzahlungenaufVorräte20 %
+1801,GeleisteteAnzahlungenaufVorräte10 %
+1802,GeleisteteAnzahlungenaufVorräte13 %
+#Klasse2
+2000,Lieferforderungen(ForderungenausLieferungenundLeistungenInland,Kundensammelkonto)
+2070,VerrechnungskontoerhalteneAnzahlungen
+2080,EinzelwertberichtigungenzuLiefer-forderungenInland
+2100,LieferforderungenWährungsunion
+2150,LieferforderungensonstigesAusland(Nicht-Währungsunion)
+2300,SonstigeForderungen
+2320,GegebeneDarlehen
+2330,ForderungenausDarlehenszinsen
+2340,ForderungenausBeteiligungs-erträgen
+2350,ForderungenausWertpapierzinsen
+2360,ForderungenausLeasinggeschäften
+2380,GuthabenbeiLieferanten(nichtausAnzahlungen)
+2400,Lohn-undGehaltsvorschüsse
+2500,Vorsteuer
+2510,Vorsteuerausig.Erwerben
+2520,Einfuhrumsatzsteuer
+2620,AktiendesUmlaufvermögens
+2650,FestverzinslicheWertpapieredesUmlaufvermögens
+2700,Kassa
+2800,Bank(GuthabenbeiKreditinstituten)
+2870,BarverkehrmitBanken
+2880,ForderungenKreditkartenunter-nehmen
+2885,ForderungenDebitkarten
+2890,SchwebendeGeldbewegungen
+2905,AktivpostenLeasingfahrzeuge
+#Klasse3
+3000,Rückstellungen
+3120,Bank(Bankschuld,VerbindlichkeitengegenüberKreditinstituten)
+3130,BarverkehrmitBanken
+3150,Darlehen(voneinerBank)
+3160,VerbindlichkeitenausDarlehens-zinsen(zu3150)
+3180,VerbindlichkeitenKreditkartenunter-nehmen
+3190,VerbindlichkeitenDebitkarten
+3200,ErhalteneAnzahlungen20 %
+3201,ErhalteneAnzahlungen10 %
+3202,ErhalteneAnzahlungen13 %
+3203,ErhalteneAnzahlungen0 %
+3300,Lieferverbindlichkeiten(Verbindlich-keitenausLieferungenundLeistungenInland,Lieferantensammelkonto)
+3350,VerrechnungskontogeleisteteAnzahlungen
+3360,LieferverbindlichkeitenWährungs-union
+3370,LieferverbindlichkeitensonstigesAusland(Nicht-Währungsunion)
+3500,Umsatzsteuer
+3510,Erwerbsteuer(UStausig.Erwerben)
+3520,USt-Zahllast
+3540,VerbindlichkeitenFinanzamt(VerrechnungskontoFinanzamt)
+3570,VerbindlichkeitenZollamt
+3600,VerbindlichkeitenGesundheitskasse
+3610,VerbindlichkeitenGemeinde(Stadt)
+3700,Darlehen(nichtvoneinerBank)
+3710,VerbindlichkeitenausDarlehens-zinsen(zu3700)
+3750,VerbindlichkeitengegenüberKunden(nichtausAnzahlungen)
+3800,SonstigeVerbindlichkeiten
+3850,VerbindlichkeitengegenMitarbeiterausderBezugsverrechnung
+#Klasse4
+4000,Handelswarenerlöse20 %(FertigerzeugniserlöseoderandereErlöseoderErträgeausderHaupt-leistungdesUnternehmens)
+4001,Handelswarenerlöse10 %
+4002,Handelswarenerlöse13 %
+4010,Erlöseausig.Lieferungen
+4015,Exporterlöse
+4100,Fertigerzeugniserlöse20 %
+4101,Fertigerzeugniserlöse10 %
+4180,Emballagen-Erlöse
+4400,Erlösberichtigungen20 %
+4401,Erlösberichtigungen10 %
+4402,Erlösberichtigungen13 %
+4403,Erlösberichtigungen0 %
+4405,Erlösberichtigungenig.Lieferungen
+4406,ErlösberichtigungenExport
+4410,Kundenskonti20 %
+4411,Kundenskonti10 %
+4412,Kundenskonti13 %
+4415,Kundenskontiausig.Lieferungen
+4416,KundenskontiExport
+4500,Bestandsveränderungen
+4580,AktivierteEigenleistungen
+4600,ErlöseausdemAbgangvonAnlagen20 %
+4601,ErlöseausdemAbgangvonAnlagen0 %
+4610,VersicherungsentschädigungenfürAnlagenabgänge
+4630,ErträgeausdemAbgangvonAnlagen
+4660,ErträgeausderZuschreibungzumAnlagevermögen
+4810,Mieterträge(Pachterträge)*
+4820,Provisionserträge*
+4840,Fremdwährungskursgewinne
+4850,ErträgeausKonventionalstrafen
+4860,Versicherungsentschädigungen(sonstige)
+4870,ErträgeausderAuflösungvonWertberichtigungenzuForderungen
+4880,ÜbrigebetrieblicheErträge20 %
+4881,ÜbrigebetrieblicheErträge10 %
+4882,ÜbrigebetrieblicheErträge13 %
+4883,ÜbrigebetrieblicheErträge0 %
+4890,Mahnspesenvergütungen
+4900,Eigenverbrauch20 %
+4901,Eigenverbrauch10 %
+4902,Eigenverbrauch13 %
+4903,Eigenverbrauch0 %
+#Klasse5
+5000,Handelswareneinsatz20%
+5001,Handelswareneinsatz10%
+5002,Handelswareneinsatz13%
+5080,Emballagen-Einsatz
+5100,Rohstoffverbrauch(-einsatz)
+5200,VerbrauchvonbezogenenTeilen
+5300,Hilfsstoffverbrauch
+5340,Verpackungsmaterialverbrauch
+5400,Betriebsstoffverbrauch
+5410,Schmiermittelverbrauch
+5420,Reparaturmaterialverbrauch
+5450,Reinigungsmaterialverbrauch
+5500,VerbrauchvonWerkzeugen,Erzeugungshilfsmitteln
+5510,Ersatzteileverbrauch
+5600,Bezugskosten
+5880,LieferantenskontiaufWareneinkauf(Materialaufwand)20 %
+5881,LieferantenskontiaufWareneinkauf(Materialaufwand)10 %
+5882,LieferantenskontiaufWareneinkauf(Materialaufwand)13 %
+5884,LieferantenskontiAnlagenkäufe
+5885,Lieferantenskontiausig.Erwerben
+5886,LieferantenskontiImport
+5890,UmsatzbonusaufWareneinkauf20%
+5891,UmsatzbonusaufWareneinkauf10%
+5892,UmsatzbonusaufWareneinkauf13%
+#Klasse6
+6000,Fertigungslöhne
+6001,ÜberstundenArbeiter
+6010,Hilfslöhne
+6020,SonderzahlungenArbeiter
+6100,LehrlingseinkommenArbeiter
+6120,SonderzahlungenArbeiterlehrlinge
+6200,Gehälter
+6201,ÜberstundenAngestellte
+6220,SonderzahlungenAngestellte
+6300,LehrlingseinkommenAngestellte
+6320,SonderzahlungenAngestellten-lehrlinge
+6400,AbfertigungsaufwandArbeiter
+6420,AbfertigungsaufwandAngestellte
+6440,AufwandfürBetrieblicheVorsorge-kassenArbeiter
+6441,AufwandfürBetrieblicheVorsorge-kassenAngestellte
+6500,GesetzlicherSozialaufwandArbeiter
+6560,GesetzlicherSozialaufwandAngestellte
+6600,DienstgeberbeitragArbeiter
+6610,ZuschlagzumDBArbeiter
+6620,KommunalsteuerArbeiter
+6630,WienerDienstgeberabgabeArbeiter
+6660,DienstgeberbeitragAngestellte
+6670,ZuschlagzumDBAngestellte
+6680,KommunalsteuerAngestellte
+6690,WienerDienstgeberabgabeAngestellte
+6700,FreiwilligerSozialaufwand
+#Klasse7
+7010,AbschreibungenvonSachanlagen(AbsetzungfürAbnutzung,AfA)
+7040,AußerplanmäßigeAbschreibungenvonAnlagevermögen(Teilwert-abschreibungen,ausgenommenFinanzanlagen)
+7060,AbschreibungengeringwertigerWirtschaftsgüter
+7070,AußerplanmäßigeAbschreibungenvonUmlaufvermögen
+7100,Grundsteuer
+7150,Tourismusabgabe
+7180,Gebühren
+7190,SonstigeAbgaben
+7200,InstandhaltungdurchDritte
+7210,ReinigungdurchDritte
+7220,Entsorgungsaufwand
+7240,Heizölverbrauch
+7250,Treibstoffverbrauch
+7260,Gasverbrauch
+7270,Stromverbrauch
+7280,Heizmaterialverbrauch(festeBrennstoffe)
+7300,Ausgangsfrachten20 %(TransportedurchDritte)
+7301,Ausgangsfrachten0 %
+7310,Paketgebühren20 %
+7311,Paketgebühren0 %
+7320,Pkw-undKombi-Betriebsaufwand
+7321,MotorbezogeneVersicherungssteuerPkwundKombis
+7325,VersicherungsaufwandPkwundKombis
+7326,Parkgebühren,StraßenmautPkwundKombis
+7330,Lkw-Betriebsaufwand
+7331,MotorbezogeneVersicherungssteuerLkw
+7332,KraftfahrzeugsteuerLkw
+7335,VersicherungsaufwandLkw
+7336,Parkgebühren,StraßenmautLkw
+7340,Bahn-undAutobuskostenInlands-reisen
+7341,FlugkostenInlandsreisen
+7342,TaxikostenInlandsreisen
+7343,SonstigeFahrtkostenInlandsreisen
+7344,Reise-NebenkostenInland
+7345,KilometergelderInland
+7360,TagesgelderInland
+7364,NächtigungsgelderInland
+7380,Telefon-undInternetgebühren
+7385,Portogebühren
+7400,Mietaufwand(Pachtaufwand)
+7440,Leasingaufwand
+7450,LeasingaufwandPkwundKombis
+7460,LeasingaufwandLkw
+7480,Lizenzaufwand
+7540,ProvisionenanDritte(Nicht-Arbeitnehmer;VertriebsaufwandfürHandelsvertreter)
+7600,Büromaterial(Büroaufwand,Bürobedarf)
+7610,KopienundsonstigeDruckkosten
+7630,FachliteraturundZeitungen
+7650,Werbeaufwand
+7660,AufwandfürGeschäftsanbahnung20 %
+7661,AufwandfürGeschäftsanbahnung10 %
+7662,AufwandfürGeschäftsanbahnung0 %
+7663,NichtabsetzbarerAufwandfürGeschäftsanbahnung20 %
+7664,NichtabsetzbarerAufwandfürGeschäftsanbahnung10 %
+7665,NichtabsetzbarerAufwandfürGeschäftsanbahnung0 %
+7680,SpendenundTrinkgelder
+7700,Versicherungsaufwand
+7710,Haftpflichtversicherungen(ohneKraftfahrzeuge)
+7740,VersicherungsbeiträgeandieSozialversicherungsanstaltderSelbständigen
+7750,Rechts-undBeratungsaufwand
+7770,AufwandfürAus-undFortbildung
+7780,Kammerumlage
+7790,SpesendesGeldverkehrs
+7791,SonstigeBankspesen
+7792,Provisionen,GebührenKredit-undDebitkarten
+7800,AbschreibungenvonVorräten
+7802,AbschreibungenvonForderungen20 %
+7803,AbschreibungenvonForderungen10 %
+7804,AbschreibungenvonForderungen13 %
+7805,AbschreibungenvonForderungen0 %
+7806,ZuweisungenanWBzuForderungen
+7811,Konventionalstrafen
+7815,Fremdwährungskursverluste
+7818,Rundungsdifferenzen
+7819,SonstigeSchadensfälle
+7820,BuchwertabgegangenerAnlagen
+7830,VerlusteausdemAbgangvonAnlagen
+7850,ÜbrigebetrieblicheAufwendungen20 %
+7851,ÜbrigebetrieblicheAufwendungen10 %
+7852,ÜbrigebetrieblicheAufwendungen0 %
+7880,LieferantenskontiaufsonstigebetrieblicheAufwendungen
+#Klasse8
+8030,SteuerpflichtigeZinsenerträgefürWertpapieredesAnlagevermögens
+8031,EndbesteuerteZinsenerträgefürWertpapieredesAnlagevermögens
+8035,SteuerpflichtigeDividenerträge(ausAktienohneBeteiligungscharakter)
+8036,EndbesteuerteDividenerträge(ausAktienohneBeteiligungscharakter)
+8050,ZinsenerträgeausBankguthaben
+8051,ZinsenerträgeausgewährtenDarlehen
+8052,SteuerpflichtigeZinsenerträgefürWertpapieredesUmlaufvermögens
+8053,EndbesteuerteZinsenerträgefürWertpapieredesUmlaufvermögens
+8055,Verzugszinsenerträge
+8056,SonstigeZinsenerträge20 %
+8057,SonstigeZinsenerträge10 %
+8080,ErlöseausdemAbgangvonsonstigenFinanzanlagen
+8090,ErlöseausdemAbgangvonWertpapierendesUmlaufvermögens
+8170,ErträgeausderZuschreibungzuFinanzanlagen
+8180,ErträgeausderZuschreibungzuWertpapierendesUmlaufvermögens
+8200,AbschreibungenaufBeteiligungen
+8270,AbschreibungenaufsonstigeFinanzanlagen
+8271,AbschreibungenaufWertpapieredesUmlaufvermögens
+8310,ZinsenaufwandfürBankkredite
+8311,SonstigerAufwandfürBankkredite(z. B.Bereitstellungsprovision,Überziehungsprovision)
+8315,ZinsenaufwandfürDarlehen
+8320,Verzugszinsenaufwand
+8321,Mahnspesen
+8325,ZinsenaufwandfürLieferantenkredite20 %
+8326,ZinsenaufwandfürLieferantenkredite10 %
+#Klasse9
+9000,Kapital(Stammkapital,Grundkapital)
+9600,Privat
+9610,Privatsteuern
+9800,Eröffnungsbilanzkonto(EBK)
+9850,Schlussbilanzkonto(SBK)
+9890,Gewinn-undVerlustkonto(GuV)
