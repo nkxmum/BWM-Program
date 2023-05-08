@@ -3,4 +3,4 @@
 Version 1.1
 - Gleitendes Durschnittspreisverfahren
 - Dashboard
-- test2
+- zs7
